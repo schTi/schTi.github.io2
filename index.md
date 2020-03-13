@@ -1,6 +1,6 @@
-# Hier entsteht gerade eine Webseite ber meinen Lieblingscharakter!
+# Hier entsteht gerade eine Webseite ber meinen Lieblingscharakter
 
-Hey Bro, das ist mein Chara**ck**ter. Gefllt er dir?
+Hey Bro, das ist mein Chara**ck**ter. Gefllt er dir
 
 ## H2 Header
 * moin
@@ -9,4 +9,4 @@ Hey Bro, das ist mein Chara**ck**ter. Gefllt er dir?
 
 > This is a qoute
 > and it goes over two lines
-> or three?
+> or three
