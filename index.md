@@ -1,6 +1,6 @@
 # Hier entsteht gerade eine Webseite ber meinen Lieblingscharakter
 
-Hey Bro, das ist mein Chara**ck**ter. Gefllt er dir
+Hey Bro, das ist mein Charater. Gefllt er dir
 
 ## H2 Header
 * moin
